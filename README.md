@@ -63,10 +63,12 @@ Check out my personal portfolio:
 
 ---
 
-## 📬 Contact Info
-- 📧 Email: [noelmugisha332@gmail.com](mailto:noelmugisha332@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/noel-mugisha](https://linkedin.com/in/noel-mugisha)  
-- 💬 WhatsApp: [Chat with me](https://wa.me/250793136798)  
+## 📫 Connect with me:
+<p align="left">
+<a href="mailto:noelmugisha332@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="noelmugisha332" height="30" width="120" /></a>
+<a href="https://wa.me/250793136798" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="noelmugisha" height="30" width="120" /></a>
+<a href="https://linkedin.com/in/noel-mugisha" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="noel-mugisha" height="30" width="120" /></a>
+</p>
 
 ---
 
