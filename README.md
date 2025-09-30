@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 I’m passionate about building **scalable backend systems** and **fullstack applications**  
-- 🌱 Currently learning **Cloud Computing and Microservices**  
+- 🌱 Currently learning **Cloud Computing and Artificial Intelligence**  
 - ❤️ I love working with **Java, Spring Boot, Node.js and React**  
 - 🎯 Goal: To become an **expert Backend Engineer** and contribute to impactful open-source projects  
 - 💡 Motto: *"Solve real-life problems with clean elegant code."*  
@@ -18,26 +18,35 @@
 ---
 
 ## 🛠 Skills
-**Languages & Frameworks**
-- Java | TypeScript | SpringBoot | Node.js | Devops | Python | C/C++
+**Languages & Frameworks**  
+- Java | TypeScript | Spring Boot | Node.js | DevOps | Python | C/C++  
 
-**Frontend**
+**Frontend**  
 - React.js | React Native | HTML | CSS | TailwindCSS  
 
-**Databases**
+**Databases**  
 - PostgreSQL | MySQL | MongoDB  
 
-**Other Tools**
+**Other Tools**  
 - Git & GitHub | Docker | CI/CD | REST APIs | gRPC | GraphQL | Microservices  
 
 ---
 
+## 🚀 Portfolio
+Check out my personal portfolio here:  
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
+---
+
 ## 📬 Contact Info
-- 📧 Email: [noelmugisha@example.com](mailto:noelmugisha332@gmail.com)  
+- 📧 Email: [noelmugisha332@gmail.com](mailto:noelmugisha332@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/noel-mugisha](https://linkedin.com/)  
 - 🟢 WhatsApp: [Chat with me](https://wa.me/250793136798)  
 
 ---
-
 
 ⭐️ *"Code, Learn, Share, Repeat"* ⭐️
