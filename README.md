@@ -56,7 +56,7 @@
 ## 🚀 Portfolio
 Check out my personal portfolio:  
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://me-portfolio-psi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
