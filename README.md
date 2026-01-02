@@ -12,7 +12,6 @@
 - 🌱 Currently exploring **Cloud Computing** & **AI + MachineLearning**  
 - 📐 Experienced in **Java**, **Spring Boot**, **Node.js**, and **React**  
 - 🎯 Aspiring **Backend Engineer** eager to contribute to impactful open-source projects  
-- 💡 Motto: *"Solve real-life problems with clean, elegant code."*  
 
 ---
 
