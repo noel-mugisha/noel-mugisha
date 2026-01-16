@@ -87,5 +87,3 @@ Check out my personal portfolio:
 </p>  
 
 ---
-
-⭐️ *Code | Learn | Share | Repeat* ⭐️
