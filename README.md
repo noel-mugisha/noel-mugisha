@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Noel Mugisha</h1>  
 <p align="center">   
   <a href="https://git.io/typing-svg">     
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&width=650&lines=Fullstack+%3E+Backend+Developer;Java+%26+Spring+Enthusiast" alt="Typing Animation" />   
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&width=650&lines=Fullstack+%3E+Backend+Developer;Java+%26+Spring+Enthusiast;PHP+%26+Laravel+Explorer" alt="Typing Animation" />   
   </a> 
 </p>    
 
@@ -9,8 +9,9 @@
 
 ## 👨‍💻 About Me  
 - 🔭 Passionate about building **scalable backend systems** and **full-stack applications**  
-- 🌱 Currently exploring **Cloud Computing** & **AI + MachineLearning**  
-- 📐 Experienced in **Java**, **Spring Boot**, **Node.js**, and **React**  
+- 🌱 Currently mastering **PHP & Laravel** alongside my Java core  
+- ☁️ Exploring **Cloud Computing** & **AI + Machine Learning**  
+- 📐 Experienced in **Java**, **Spring Boot**, **Node.js**, **NestJS**, and **Laravel**  
 - 🎯 Aspiring **Backend Engineer** eager to contribute to impactful open-source projects  
 
 ---
@@ -20,10 +21,14 @@
 ### 💻 Languages & Frameworks  
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
@@ -41,23 +46,18 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### ⚙️ DevOps & Tools  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-2CA5E0?style=for-the-badge&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
 ---
@@ -88,4 +88,4 @@ Check out my personal portfolio:
 
 ---
 
-⭐️ *Code | Learn | Share | Repeat* ⭐️  
+⭐️ *Code | Learn | Share | Repeat* ⭐️
