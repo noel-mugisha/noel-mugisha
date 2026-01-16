@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Noel Mugisha</h1>  
 <p align="center">   
   <a href="https://git.io/typing-svg">     
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&width=650&lines=Fullstack+%3E+Backend+Developer;Java+%26+Spring+Enthusiast;PHP+%26+Laravel+Explorer" alt="Typing Animation" />   
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&width=650&lines=Fullstack+%3E+Backend+Developer;Java+%26+Spring+Enthusiast" alt="Typing Animation" />   
   </a> 
 </p>    
 
@@ -9,7 +9,6 @@
 
 ## 👨‍💻 About Me  
 - 🔭 Passionate about building **scalable backend systems** and **full-stack applications**  
-- 🌱 Currently mastering **PHP & Laravel** alongside my Java core  
 - ☁️ Exploring **Cloud Computing** & **AI + Machine Learning**  
 - 📐 Experienced in **Java**, **Spring Boot**, **Node.js**, **NestJS**, and **Laravel**  
 - 🎯 Aspiring **Backend Engineer** eager to contribute to impactful open-source projects  
