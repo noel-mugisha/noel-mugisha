@@ -12,7 +12,7 @@
 - Passionate about building **scalable backend systems** and **full-stack applications**  
 - Exploring **Cloud Computing** & **AI + Machine Learning**  
 - Experienced in **Java**, **Spring Boot**, **Node.js**, **NestJS**, and **Laravel**  
-- Aspiring **Backend Engineer** eager to contribute to impactful open-source projects  
+- Aspiring **Backend Engineer** eager to contribute to impactful projects  
 
 ---
 
