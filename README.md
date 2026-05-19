@@ -60,6 +60,16 @@
 
 ---
 
+## <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" align="center" /> LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Noel-25/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Noel-25?theme=dark&font=baloo_2&border=0&radius=16" alt="Noel Mugisha's LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Portfolio  
 Check out my personal portfolio:  
 
