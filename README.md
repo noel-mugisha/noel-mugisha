@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- Open source enthusiast & **GSoC'25** contributor @ **Apache Fineract**
+- Open source enthusiast & **GSoC'26** contributor @ **Apache Fineract**
 - Passionate about building **scalable backend systems** and **full-stack applications**  
 - Experienced in **Java**, **Spring**, **Node.js**, **NestJS**, and **Laravel**  
 
