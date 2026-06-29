@@ -60,16 +60,6 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" align="center" /> LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/Noel-25/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Noel-25?theme=dark&font=baloo_2&border=0&radius=16" alt="Noel Mugisha's LeetCode Stats" />
-  </a>
-</p>
-
----
-
 ## 🚀 Portfolio  
 Check out my personal portfolio:  
 
@@ -82,13 +72,16 @@ Check out my personal portfolio:
 ---
 
 ## 📫 Connect with me:  
-<p align="left"> 
-  <a href="mailto:noelmugisha332@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="noelmugisha332" height="30" width="120" />
-  </a> <br>
-  <a href="https://linkedin.com/in/noel-mugisha" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="noel-mugisha" height="30" width="120" />
-  </a> 
+<p align="center"> 
+  <a href="mailto:noelmugisha332@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/noel-mugisha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Noel-25/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>  
 
 ---
